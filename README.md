@@ -3,7 +3,7 @@ It is an NLP technique that extracts text from a large amount of data. It helps 
 
 It is important because :
 
-Reduces reading time
+Reduces reading time <br>
 Helps in better research work
 Increases the amount of information that can fit in an area
 There are two approaches for text summarization: NLP based techniques and deep learning techniques.
